@@ -155,3 +155,5 @@ Be sure to replace `https://chatwidget-domain-checker.voiceflow.workers.dev` wit
 ## Voiceflow Agent
 Import the `Domain Checker 2024-07-25 11-05.vf` file into your Voiceflow workspace.
 You will have to update the code in the **Check Authorization** step to match the domains you want to allow as well as the secret key you set in the Cloudflare worker.
+
+[![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=voiceflow-community_vf-chat-domain-checker&metric=alert_status)](https://sonarcloud.io/summary/new_code?id=voiceflow-community_vf-chat-domain-checker)
